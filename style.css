@@ -1,0 +1,92 @@
+a {
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    text-decoration: none;
+    margin: 60px;
+}
+
+#active {
+    color: #4E6fAE;
+}
+
+.date {
+    display: inline;
+    background-color: #5012D5;
+    color: #84FF81;
+    font-size: 24;
+    padding: 5px; 
+    margin-left: 40px;
+}
+
+.month {
+    font-size: 24px;
+    color: #8D81FF;
+    margin-left: 34px;
+    font-family: "BPG Nino Mkhedruli", sans-serif;
+}
+
+.heading2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin-left: 34px;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+div {
+   display: inline-block;
+   margin-left: 34px;
+}
+
+.info {
+    width: 778px;
+    height: 281px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4E6FAE;
+    display: inline-block;
+    margin: 30px;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+.photo1 {
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.info1 {
+    width: 778px;
+    height: 281px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4E6FAE;
+    display: inline-block;
+    margin: 30px;
+    vertical-align: top;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+.info3 {
+    width: 778px;
+    height: 281px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4E6FAE;
+    display: inline-block;
+    margin: 30px;
+    vertical-align: top;
+    font-family: "BPG Nostalgia", sans-serif;
+}
+
+.fb1 {
+    margin-left: 34px;
+}
+
+.line {
+    margin-left: 34px;
+}
+
+.yt1 {
+    margin-left: 34px;
+}

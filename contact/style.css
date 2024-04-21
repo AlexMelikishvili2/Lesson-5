@@ -1,0 +1,62 @@
+a {
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    text-decoration: none;
+    margin: 60px;
+}
+
+#active {
+    color: #4E6fAE;
+}
+
+#contact {
+    width: 400px;
+    display: inline-block;
+}
+
+#container {
+    height: 700px;
+    background-color: #E7E7E7;
+    margin-top: 50px;
+    padding: 90px 40px 90px 163px;
+}
+
+.Map {
+    width: 850px;
+height: 520px;
+top: -288px;
+left: 2838px;
+gap: 0px;
+opacity: 0px;
+margin-top: 80px;
+margin-left: 170px;
+}
+
+.color1 {
+    color:#7E8898;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.color2 {
+    color: #3F4145;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.satauri1 {
+    font-weight: 700;
+    color:#4E6FAE;
+}
+
+.down4 {
+    margin-left: 70px;
+}
+
+.down5 {
+    margin-left: 34px;
+}
+.down6 {
+    margin-left: 34px;
+}
